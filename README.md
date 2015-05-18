@@ -3,5 +3,8 @@
 
 This is a simple project I started to utilize a couple displays I had gotten from 
 Adafruit (http://www.adafruit.com/products/250).  Initially this is just for the
-RAMPS 1.4 board utilizing the basic smart adapter.  Plans are to expand the supported
-platforms to include the Smoothieboard with GLCD shield and the Printrboard Rev F4.
+RAMPS 1.4 board utilizing the basic smart adapter running Marlin.  Plans are to expand 
+the supported platforms to include the Smoothieboard with GLCD shield and the Printrboard 
+Rev F4.
+
+A pull request to support the display in Marlin has been submitted.
