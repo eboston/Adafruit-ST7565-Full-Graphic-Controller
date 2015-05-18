@@ -8,3 +8,5 @@ the supported platforms to include the Smoothieboard with GLCD shield and the Pr
 Rev F4.
 
 A pull request to support the display in Marlin has been submitted.
+
+The PCB is Rev B and has not been built or tested yet.  It contains fixes for problems found in the Rev A board.
